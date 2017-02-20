@@ -1,0 +1,33 @@
+    h1 {
+    	font-family: Cutive Mono, monospace;
+    	letter-spacing: 15px;
+    	font-weight: lighter;
+    	margin-left: 20px;
+    }
+
+    sub {
+    	font-size: 8px;
+    	letter-spacing: normal;
+    }
+
+    p{
+    	font-family: cutive mono, monospace;
+        padding-left: 10px;
+    }
+
+    div {
+        background-color: #fff;
+        opacity: 0.8;
+    	margin:200px auto 0 auto;
+    	display: block;
+    	width: 400px;
+    	border-left: solid 10px;
+    	border-color: #E5E5E5;
+    
+    }
+
+    body {
+        background-image:url('/Users/michaelschomburg/Documents/3. programming/peter Doherty project/background.png');
+        background-repeat:no-repeat;
+        background-position:center;
+    }
